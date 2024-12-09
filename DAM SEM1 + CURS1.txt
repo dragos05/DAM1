@@ -1,0 +1,24 @@
+- 70% prezenta seminar
+- 28 ianuarie examen
+- minim 2,5 puncte la seminar
+- saptamana 8 si 12 teste
+
+-- SEMINAR 1 --
+- cheie curs - 45832
+- servicii 
+- receptori de mesaje - notificari, call-uri, sms-uri
+- furnizor de continut - fotografii, contacts, calendar
+
+- Ciclul de viata al unei activitati 
+	- OnCreate -  crearea elementelor 
+	- OnStart
+
+Constraint Layout - container 
+TextView = Label
+
+app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+-> proprietati de ancorare 
+-> ancorate in inim 2 puncte
